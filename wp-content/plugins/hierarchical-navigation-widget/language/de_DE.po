@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sub Post Navigation Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-06 21:40+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <mail@DennisHoppe.de>\n"
+"Language-Team: Dennis Hoppe\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German (Sie)\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-widget-sub-post-navigation.php:28
+msgid "Sub Post Navigation"
+msgstr "Hierarchische Navigation"
+
+#: ../wp-widget-sub-post-navigation.php:29
+msgid "This widget display a navigation on hierarchically organized post types."
+msgstr "Dieses Widget zeigt eine Navigation für hierarchisch organisierte Artikel."
+
+#: ../wp-widget-sub-post-navigation.php:52
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../wp-widget-sub-post-navigation.php:186
+#, php-format
+msgid "The Lite version of this Widget is visible to logged in users only. Why not switching to the <a href=\"%s\" target=\"_blank\">Pro Version</a>? :)"
+msgstr "Die Lite Version des Widgets ist nur für eingeloggte Besucher sichtbar. Warum nicht zur <a href=\"%s\" target=\"_blank\">Pro Version</a> wechseln? :)"
+
+#: ../wp-widget-sub-post-navigation.php:187
+#: ../wp-widget-sub-post-navigation.php:194
+msgctxt "Link to the authors website"
+msgid "http://dennishoppe.de/en/wordpress-plugins/sub-post-navigation"
+msgstr "http://dennishoppe.de/wordpress-plugins/sub-post-navigation"
+
+#: ../wp-widget-sub-post-navigation.php:193
+#, php-format
+msgid "Sorry, this feature is only available in the <a href=\"%s\" target=\"_blank\">Pro Version</a>."
+msgstr "Entschuldigung, diese Funktion gibt es nur in der <a href=\"%s\" target=\"_blank\">Pro Version</a>."
+
+#: ../form.php:1
+msgid "Attention please!"
+msgstr "Achtung!"
+
+#: ../form.php:6
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../form.php:8
+msgid "This title will only be used if there is no useable parent post title."
+msgstr "Der Titel wird nur verwendet wenn es keinen brauchbaren übergeordneten Titel gibt."
+
+#: ../form.php:14
+msgid "Hide the widget title."
+msgstr "Widget-Titel verstecken."
+
+#: ../form.php:21
+msgid "Replace the widget title with the title of the parent page if possible."
+msgstr "Ersetze den Widget-Titel mit dem Titel der Elternseite falls möglich."
+
+#: ../form.php:25
+msgid "Post Types"
+msgstr "Inhaltstypen"
+
+#: ../form.php:26
+msgid "Please select the post types which should be shown by this widget."
+msgstr "Bitte wählen Sie die Inhaltstypen für die Sie dieses Widget benutzen möchten."
+
+#: ../form.php:37
+msgid "Post order"
+msgstr "Artikelreihenfolge"
+
+#: ../form.php:39
+msgid "Order posts by:"
+msgstr "Sortieren nach:"
+
+#: ../form.php:41
+msgid "Post ID"
+msgstr "Artikel ID"
+
+#: ../form.php:42
+msgid "Author"
+msgstr "Autor"
+
+#: ../form.php:43
+msgid "Title"
+msgstr "Titel"
+
+#: ../form.php:44
+msgid "Date"
+msgstr "Datum"
+
+#: ../form.php:45
+msgid "Modified date"
+msgstr "Bearbeitungsdatum"
+
+#: ../form.php:46
+msgid "Random order"
+msgstr "Zufallsreihenfolge"
+
+#: ../form.php:47
+msgid "Number of comments"
+msgstr "Kommentaranzahl"
+
+#: ../form.php:48
+msgid "Menu order"
+msgstr "Menüreihenfolge"
+
+#: ../form.php:55
+msgid "Order the posts ascending."
+msgstr "Artikel aufsteigend sortieren."
+
+#: ../form.php:62
+msgid "Order the posts descending."
+msgstr "Artikel absteigend sortieren."
+
+#: ../form.php:69
+msgid "Exclude"
+msgstr "Ausschliessen"
+
+#: ../form.php:79
+msgid "Special case"
+msgstr "Sonderfall"
+
+#: ../form.php:83
+msgid "Hide this widget on top level posts if there are no child posts."
+msgstr "Zeige das Widget nicht auf Top Level Artikeln wenn es keine Unterartikel gibt."
+
+#: ../form.php:88
+msgid "Parent link"
+msgstr "Aufwärts-Link"
+
+#: ../form.php:90
+msgid "Hide the parant post link."
+msgstr "Link zum übergeordneten Artikel verstecken."
+
+#: ../form.php:97
+msgid "Show the parent post link on top of the list."
+msgstr "Zeige den Aufwärts-Link über der Navigation."
+
+#: ../form.php:104
+msgid "Show the parent post link on bottom of the list."
+msgstr "Zeige den Aufwärts-Link unter der Navigation."
+
+#~ msgid "Sub Posts/Pages"
+#~ msgstr "Unterseiten/Artikel"
+
+#~ msgid ""
+#~ "You can add this widget to sidebars on hierarchically post types to show "
+#~ "all sub posts/pages of the current one."
+#~ msgstr ""
+#~ "Sie können dieses Wiget in Sidebars von hierarchisch einbinden um die "
+#~ "Unterseite aufzulisten."

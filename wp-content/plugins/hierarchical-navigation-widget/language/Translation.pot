@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sub Post Navigation Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-06 21:41+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <mail@DennisHoppe.de>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-widget-sub-post-navigation.php:28
+msgid "Sub Post Navigation"
+msgstr ""
+
+#: ../wp-widget-sub-post-navigation.php:29
+msgid "This widget display a navigation on hierarchically organized post types."
+msgstr ""
+
+#: ../wp-widget-sub-post-navigation.php:52
+msgid "Navigation"
+msgstr ""
+
+#: ../wp-widget-sub-post-navigation.php:186
+#, php-format
+msgid "The Lite version of this Widget is visible to logged in users only. Why not switching to the <a href=\"%s\" target=\"_blank\">Pro Version</a>? :)"
+msgstr ""
+
+#: ../wp-widget-sub-post-navigation.php:187
+#: ../wp-widget-sub-post-navigation.php:194
+msgctxt "Link to the authors website"
+msgid "http://dennishoppe.de/en/wordpress-plugins/sub-post-navigation"
+msgstr ""
+
+#: ../wp-widget-sub-post-navigation.php:193
+#, php-format
+msgid "Sorry, this feature is only available in the <a href=\"%s\" target=\"_blank\">Pro Version</a>."
+msgstr ""
+
+#: ../form.php:1
+msgid "Attention please!"
+msgstr ""
+
+#: ../form.php:6
+msgid "Title:"
+msgstr ""
+
+#: ../form.php:8
+msgid "This title will only be used if there is no useable parent post title."
+msgstr ""
+
+#: ../form.php:14
+msgid "Hide the widget title."
+msgstr ""
+
+#: ../form.php:21
+msgid "Replace the widget title with the title of the parent page if possible."
+msgstr ""
+
+#: ../form.php:25
+msgid "Post Types"
+msgstr ""
+
+#: ../form.php:26
+msgid "Please select the post types which should be shown by this widget."
+msgstr ""
+
+#: ../form.php:37
+msgid "Post order"
+msgstr ""
+
+#: ../form.php:39
+msgid "Order posts by:"
+msgstr ""
+
+#: ../form.php:41
+msgid "Post ID"
+msgstr ""
+
+#: ../form.php:42
+msgid "Author"
+msgstr ""
+
+#: ../form.php:43
+msgid "Title"
+msgstr ""
+
+#: ../form.php:44
+msgid "Date"
+msgstr ""
+
+#: ../form.php:45
+msgid "Modified date"
+msgstr ""
+
+#: ../form.php:46
+msgid "Random order"
+msgstr ""
+
+#: ../form.php:47
+msgid "Number of comments"
+msgstr ""
+
+#: ../form.php:48
+msgid "Menu order"
+msgstr ""
+
+#: ../form.php:55
+msgid "Order the posts ascending."
+msgstr ""
+
+#: ../form.php:62
+msgid "Order the posts descending."
+msgstr ""
+
+#: ../form.php:69
+msgid "Exclude"
+msgstr ""
+
+#: ../form.php:79
+msgid "Special case"
+msgstr ""
+
+#: ../form.php:83
+msgid "Hide this widget on top level posts if there are no child posts."
+msgstr ""
+
+#: ../form.php:88
+msgid "Parent link"
+msgstr ""
+
+#: ../form.php:90
+msgid "Hide the parant post link."
+msgstr ""
+
+#: ../form.php:97
+msgid "Show the parent post link on top of the list."
+msgstr ""
+
+#: ../form.php:104
+msgid "Show the parent post link on bottom of the list."
+msgstr ""
+
